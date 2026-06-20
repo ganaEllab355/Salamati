@@ -1,10 +1,10 @@
-# 🚑 Salamati Landing Page
+# 🚑 Salamti Landing Page
 
-A modern, responsive landing page for **Salamati**, an intelligent accident detection and emergency response system designed to improve road safety and reduce emergency response time.
+A modern, responsive landing page for **Salamti**, an intelligent accident detection and emergency response system designed to improve road safety and reduce emergency response time.
 
 ## 📌 About the Project
 
-Salamati is a smart platform that combines an in-vehicle hardware device, GPS tracking, and mobile applications to automatically detect accidents and coordinate emergency assistance.
+Salamti is a smart platform that combines an in-vehicle hardware device, GPS tracking, and mobile applications to automatically detect accidents and coordinate emergency assistance.
 
 When a crash is detected, the system captures the accident location, sends emergency alerts, notifies the nearest paramedic, and informs the driver's family in real time.
 
@@ -31,11 +31,11 @@ This repository contains the official landing page developed to present the proj
 
 ## 🎯 Project Goal
 
-The goal of Salamati is to reduce emergency response time and improve road safety through intelligent accident detection, real-time location tracking, and faster communication with emergency services.
+The goal of Salamti is to reduce emergency response time and improve road safety through intelligent accident detection, real-time location tracking, and faster communication with emergency services.
 
 ## 👥 Team
 
-Salamati Graduation Project Team  
+Salamti Graduation Project Team
 Faculty of Computers & Artificial Intelligence
 
 ## 📧 Contact
@@ -46,4 +46,4 @@ For feedback, collaboration, or project inquiries:
 
 ---
 
-© 2026 Salamati. All Rights Reserved.
+© 2026 Salamti. All Rights Reserved.

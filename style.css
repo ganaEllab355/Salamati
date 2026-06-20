@@ -66,7 +66,7 @@ nav .logo {
 }
 
 nav .logo::after {
-    content: "Salamati";
+    content: "Salamti";
     font-size: 20px;
     font-weight: 800;
     line-height: 1;
@@ -1285,7 +1285,7 @@ footer{
 }
 
 .footer-logo::after {
-    content: "Salamati";
+    content: "Salamti";
     font-size: 18px;
     font-weight: 800;
     line-height: 1;
